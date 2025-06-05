@@ -4,7 +4,7 @@ Donate link: https://www.wpfixit.com
 Tags: woocommerce, woocommerce checkout, woocommerce order, woocommerce orders  
 Requires at least: 3.0.1  
 Tested up to: 6.6.2  
-Stable tag: 3.4  
+Stable tag: 3.5
 License: GPLv3  
 License URI: http://www.gnu.org/licenses/gpl.html  
 
@@ -45,6 +45,9 @@ WooCommerce Order Test provides a testing payment gateway for WooCommerce. It al
 2. Checkout notice displayed during a test
 
 == Changelog ==
+
+= 3.5 =
+* Added required use of WooCommerce
 
 = 3.4 =
 * Adjustments for PHP version 8.2 compatibility

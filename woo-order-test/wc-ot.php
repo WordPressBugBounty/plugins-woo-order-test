@@ -5,7 +5,7 @@
  * Description: A testing payment gateway for WooCommerce to see if your checkout works like it should. This will be for admin users only.
  * Author:      WP Fix It
  * Author URI:  https://www.wpfixit.com
- * Version:     4.0
+ * Version:     4.1
  * Text Domain: woo-order-test
  
  * Requires Plugins: woocommerce

@@ -73,7 +73,7 @@ function wpfi_init_woo_order_test_gateway_class() {
             $this->method_title       = esc_html__('WooCommerce Order Test', 'woo-order-test');
 
             if (isset($_GET['section']) && $_GET['section'] === 'wpfi_woo_order_test') {
-                $this->method_description = esc_html__('A test gateway for admins to bypass payment methods. Created and managed by WP Fix It - WordPress Experts.', 'woo-order-test');
+                $this->method_description = esc_html__('A test gateway for admins to bypass payment methods to test that the checkout is working properly. Created and managed by WP Fix It - WordPress Experts.', 'woo-order-test');
             } else {
                 $this->method_description = wp_kses_post(__('A test gateway for admins to bypass payment methods.', 'woo-order-test'));
             }

@@ -1,10 +1,10 @@
-=== WooCommerce Order Test ===
+=== WC Order Test ===
 Contributors: wpfixit  
 Donate link: https://www.wpfixit.com  
 Tags: woocommerce, woocommerce checkout, woocommerce order, woocommerce orders  
 Requires at least: 3.0.1  
 Tested up to: 6.8
-Stable tag: 4.1
+Stable tag: 4.2
 License: GPLv3  
 License URI: http://www.gnu.org/licenses/gpl.html  
 Test your WooCommerce order process in seconds to ensure your checkout works correctly.
@@ -31,6 +31,9 @@ WooCommerce Order Test provides a testing payment gateway for WooCommerce. It al
 1. Settings page within the WooCommerce settings area
 2. Checkout notice displayed during a test
 == Changelog ==
+
+= 4.2 =
+* Changed name
 
 = 4.1 =
 * Changed some admin area text 
